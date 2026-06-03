@@ -1,0 +1,11 @@
+RollNo,Name,Branch,Python,DSA,DBMS,Attendance
+1,Snehitha,CSE,92.0,88.0,85,95
+2,Meghana,ECE,78.0,82.0,80,88
+3,Ram,CSE,95.0,90.0,92,92
+4,Teja,IT,85.0,80.0,75,85
+5,Kavya,CSE,88.0,91.0,87,90
+6,Rohith,MECH,60.0,65.0,70,70
+7,Priya,ECE,72.0,75.0,68,75
+8,Arjun,CSE,90.0,85.0,88,98
+9,Divya,IT,,78.0,82,80
+10,Kiran,MECH,65.0,,60,65
